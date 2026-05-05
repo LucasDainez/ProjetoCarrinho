@@ -6138,23 +6138,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\3mtec\\.nuget\\packages\\": {},
+    "C:\\Users\\3MTEC\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3mtec\\Documents\\ProjetoNilson2\\AplicacaoCarrinho\\AplicacaoCarrinho.csproj",
+      "projectUniqueName": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\AplicacaoCarrinho.csproj",
       "projectName": "AplicacaoCarrinho",
-      "projectPath": "C:\\Users\\3mtec\\Documents\\ProjetoNilson2\\AplicacaoCarrinho\\AplicacaoCarrinho.csproj",
-      "packagesPath": "C:\\Users\\3mtec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3mtec\\Documents\\ProjetoNilson2\\AplicacaoCarrinho\\obj\\",
+      "projectPath": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\AplicacaoCarrinho.csproj",
+      "packagesPath": "C:\\Users\\3MTEC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\3mtec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\3MTEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6168,7 +6168,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -6181,13 +6180,12 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
-        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
@@ -6222,8 +6220,30 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NuGet.Packaging' 6.11.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "libraryId": "NuGet.Packaging",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NuGet.Protocol' 6.11.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "libraryId": "NuGet.Protocol",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
