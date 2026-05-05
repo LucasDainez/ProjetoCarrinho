@@ -85,6 +85,170 @@
       ]
     },
     {
+      "Route": "Imagens/img2.jfif",
+      "AssetFile": "Imagens/img2.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rDpEGHG/79lWi7s8RazdkO2g70I+K/atKQA58GT9bPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 12:08:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rDpEGHG/79lWi7s8RazdkO2g70I+K/atKQA58GT9bPA="
+        }
+      ]
+    },
+    {
+      "Route": "Imagens/img2.scyz6r165q.jfif",
+      "AssetFile": "Imagens/img2.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rDpEGHG/79lWi7s8RazdkO2g70I+K/atKQA58GT9bPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 12:08:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "scyz6r165q"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rDpEGHG/79lWi7s8RazdkO2g70I+K/atKQA58GT9bPA="
+        },
+        {
+          "Name": "label",
+          "Value": "Imagens/img2.jfif"
+        }
+      ]
+    },
+    {
+      "Route": "Imagens/php.1x8g0u3vf3.jfif",
+      "AssetFile": "Imagens/php.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jbm8A8qsj4kXu0ScVQevrVEhJwpQaKQAMHS8/Nr1UKg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 12:12:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1x8g0u3vf3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jbm8A8qsj4kXu0ScVQevrVEhJwpQaKQAMHS8/Nr1UKg="
+        },
+        {
+          "Name": "label",
+          "Value": "Imagens/php.jfif"
+        }
+      ]
+    },
+    {
+      "Route": "Imagens/php.jfif",
+      "AssetFile": "Imagens/php.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jbm8A8qsj4kXu0ScVQevrVEhJwpQaKQAMHS8/Nr1UKg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 May 2026 12:12:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jbm8A8qsj4kXu0ScVQevrVEhJwpQaKQAMHS8/Nr1UKg="
+        }
+      ]
+    },
+    {
       "Route": "css/site.c2tiyv64ts.css",
       "AssetFile": "css/site.css",
       "Selectors": [],

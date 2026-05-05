@@ -52,7 +52,7 @@ namespace AplicacaoCarrinho.Controllers
             _livroRepository.Cadastrar(livro);
 
             ViewBag.msg = "Cadastro realizado";
-            return View();
+            return RedirectToAction("Index", "Home");
         }
     }
 }
