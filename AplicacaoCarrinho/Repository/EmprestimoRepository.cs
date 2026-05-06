@@ -38,6 +38,7 @@ namespace AplicacaoCarrinho.Repository
         {
 
         }
+
         public void buscaIdEmp(Emprestimo emprestimo)
         {
             using (var conexao = new MySqlConnection(_conexaoMySQL))
