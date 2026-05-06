@@ -1,3 +1,4 @@
+drop database bdEmprestimo;
 create database bdEmprestimo;
 use bdEmprestimo;
 

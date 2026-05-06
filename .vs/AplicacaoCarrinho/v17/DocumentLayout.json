@@ -1,97 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\",
+  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\repository\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\repository\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\repository\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\views\\home\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\home\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\views\\home\\indexcarrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\home\\indexcarrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\views\\home\\indexcarrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\home\\indexcarrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\views\\livros\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\livros\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\carrinhocompra\\cookiecarrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\views\\home\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\home\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\views\\livros\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\livros\\cadlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\livros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\carrinhocompra\\cookiecarrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\carrinhocompra\\cookiecarrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\cookie\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\cookie\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\cookie\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\repository\\contract\\iemprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\repository\\contract\\iemprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\repository\\contract\\iemprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\repository\\contract\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\repository\\contract\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\repository\\contract\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\downloads\\projetocarrinho\\aplicacaocarrinho\\repository\\contract\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\3mtec\\documents\\projetocarrinho\\aplicacaocarrinho\\repository\\contract\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\repository\\contract\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -102,81 +106,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Carrinho.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\Carrinho.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Home\\Carrinho.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\Carrinho.cshtml",
-              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Home\\Carrinho.cshtml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-05T12:15:15.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T21:36:39.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IndexCarrinho.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\IndexCarrinho.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Home\\IndexCarrinho.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\IndexCarrinho.cshtml",
-              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Home\\IndexCarrinho.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAiwFYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T21:19:49.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\Livro.cs",
-              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Models\\Livro.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\Livro.cs",
-              "RelativeToolTip": "AplicacaoCarrinho\\Models\\Livro.cs",
-              "ViewState": "AgIAABEAAACArboCjxInwBMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T12:21:25.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AplicacaoCarrinho\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-05T11:18:12.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Controllers\\LivrosController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "AplicacaoCarrinho\\Controllers\\LivrosController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T19:00:45.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadLivro.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Livros\\CadLivro.cshtml",
+              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Livros\\CadLivro.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Livros\\CadLivro.cshtml",
+              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Livros\\CadLivro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T11:27:49.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Livros\\Index.cshtml",
+              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Livros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Livros\\Index.cshtml",
+              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Livros\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T19:11:51.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carrinho.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\Carrinho.cshtml",
+              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Home\\Carrinho.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\Carrinho.cshtml",
+              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Home\\Carrinho.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T12:15:15.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndexCarrinho.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\IndexCarrinho.cshtml",
+              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Home\\IndexCarrinho.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\IndexCarrinho.cshtml",
+              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Home\\IndexCarrinho.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T21:19:49.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T21:41:45.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EmprestimoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\EmprestimoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\EmprestimoRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Repository\\EmprestimoRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\EmprestimoRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\EmprestimoRepository.cs",
               "RelativeToolTip": "AplicacaoCarrinho\\Repository\\EmprestimoRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB4AAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T16:44:25.479Z",
               "EditorCaption": ""
@@ -184,48 +214,60 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LivrosController.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Controllers\\LivrosController.cs",
-              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Controllers\\LivrosController.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Controllers\\LivrosController.cs",
-              "RelativeToolTip": "AplicacaoCarrinho\\Controllers\\LivrosController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwDYAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T19:00:45.417Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T21:36:39.44Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\Livro.cs",
+              "RelativeToolTip": "AplicacaoCarrinho\\Models\\Livro.cs",
+              "ViewState": "AgIAABEAAACArboCjxInwBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:21:25.355Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CadLivro.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Livros\\CadLivro.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Livros\\CadLivro.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Livros\\CadLivro.cshtml",
-              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Livros\\CadLivro.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-01T11:27:49.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AplicacaoCarrinho\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAjwEEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T21:28:17.414Z",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AplicacaoCarrinho\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AplicacaoCarrinho\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-06T11:32:09.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AplicacaoCarrinho\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAjwEEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T21:28:17.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\Item.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Models\\Item.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\Item.cs",
               "RelativeToolTip": "AplicacaoCarrinho\\Models\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,11 +275,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Emprestimo.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\Emprestimo.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Models\\Emprestimo.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\Emprestimo.cs",
               "RelativeToolTip": "AplicacaoCarrinho\\Models\\Emprestimo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -245,23 +287,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Livros\\Index.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Livros\\Index.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Livros\\Index.cshtml",
-              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Livros\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-28T19:11:51.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "AplicacaoCarrinho\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,23 +299,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T21:41:45.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\appsettings.json",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\appsettings.json",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\appsettings.json",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\appsettings.json",
               "RelativeToolTip": "AplicacaoCarrinho\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -293,11 +311,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CookieCarrinhoCompra.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
               "RelativeToolTip": "AplicacaoCarrinho\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAowGIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -305,11 +323,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Cookie.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Cookie\\Cookie.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Cookie\\Cookie.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Cookie\\Cookie.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Cookie\\Cookie.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Cookie\\Cookie.cs",
               "RelativeToolTip": "AplicacaoCarrinho\\Cookie\\Cookie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -317,11 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Program.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Program.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Program.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Program.cs",
               "RelativeToolTip": "AplicacaoCarrinho\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -329,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\ItemRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Repository\\ItemRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\ItemRepository.cs",
               "RelativeToolTip": "AplicacaoCarrinho\\Repository\\ItemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -341,11 +359,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IEmprestimoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\Contract\\IEmprestimoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\Contract\\IEmprestimoRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Repository\\Contract\\IEmprestimoRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\Contract\\IEmprestimoRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\Contract\\IEmprestimoRepository.cs",
               "RelativeToolTip": "AplicacaoCarrinho\\Repository\\Contract\\IEmprestimoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -353,11 +371,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\Contract\\IItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\Contract\\IItemRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Repository\\Contract\\IItemRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\Contract\\IItemRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\Contract\\IItemRepository.cs",
               "RelativeToolTip": "AplicacaoCarrinho\\Repository\\Contract\\IItemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -365,11 +383,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "LivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\LivroRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Repository\\LivroRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\LivroRepository.cs",
               "RelativeToolTip": "AplicacaoCarrinho\\Repository\\LivroRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -377,11 +395,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ILivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\Contract\\ILivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\Contract\\ILivroRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Repository\\Contract\\ILivroRepository.cs",
-              "ToolTip": "C:\\Users\\3MTEC\\Downloads\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\Contract\\ILivroRepository.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoCarrinho\\AplicacaoCarrinho\\Repository\\Contract\\ILivroRepository.cs",
               "RelativeToolTip": "AplicacaoCarrinho\\Repository\\Contract\\ILivroRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

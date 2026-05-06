@@ -1,5 +1,6 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Imagens\hp livros.jpg
 wwwroot\Imagens\img2.jfif
 wwwroot\Imagens\php.jfif
 wwwroot\js\site.js
