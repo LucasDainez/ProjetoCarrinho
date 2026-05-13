@@ -1,10 +1,9 @@
-﻿namespace AplicacaoCarrinho.Repository.Contract
+﻿using AplicacaoCarrinho.Models;
+
+namespace AplicacaoCarrinho.Repository.Contract
 {
-    public class ICategoriaRepository
+    public interface ICategoriaRepository
     {
-        public ICategoriaRepository() 
-        {
-        
-        }
+        IEnumerable<Categoria> ObterTodasCategorias();
     }
 }

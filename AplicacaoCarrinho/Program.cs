@@ -42,7 +42,6 @@ builder.Services.AddScoped<GerenciadorArquivo>();
 builder.Services.AddScoped<AplicacaoCarrinho.Cookie.Cookie>();
 builder.Services.AddScoped<AplicacaoCarrinho.CarrinhoCompra.CookieCarrinhoCompra>();
 
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
