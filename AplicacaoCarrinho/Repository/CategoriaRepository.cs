@@ -8,6 +8,12 @@ namespace AplicacaoCarrinho.Repository
     public class CategoriaRepository : ICategoriaRepository
     {
         private readonly string _conexaoMySQL;
+
+        public CategoriaRepository(IConfiguration conf)
+        {
+            _conexaoMySQL = conf.GetConnectionString("ConexaoMySQL");
+        }
+
         public IEnumerable<Categoria> ObterTodasCategorias()
         {
             List<Categoria> catList = new List<Categoria>();

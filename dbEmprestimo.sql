@@ -30,6 +30,9 @@ Id int primary key auto_increment,
 Nome varchar(50)
 );
 
+
 select * from tbintensEmp;
 
 insert into tbUsuario values (default, 'Bia'),(default,'Dainez');
+insert into tbCategoria values (1, 'Nilson');
+select * from tbCategoria;
